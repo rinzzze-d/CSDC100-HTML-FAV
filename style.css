@@ -123,6 +123,7 @@ footer p {
   border-radius: 15px;
   display: block;
   margin: 0 auto;
+  box-shadow: #090909;
 }
 .social-icon {
   width: 90px;
@@ -149,3 +150,4 @@ footer p {
   h1 {font-size: 1.5rem;}
   p {font-size: 0.9rem;}
   footer {font-size: 0.8rem;}
+}}
