@@ -45,7 +45,7 @@ Social media icons (Facebook, Instagram, Spotify, TikTok, X, YouTube) link out f
 - The basics of HTML page structure: headings, links, images, and forms
 - Styling multiple pages with a single shared CSS file
 - How to use Git and GitHub for the first time
-- Next time, I'd organize assets into `images/` and `css/` folders
+- Next time, I'd organize assets into folders
 
 ## Credits
 
